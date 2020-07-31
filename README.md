@@ -1,5 +1,5 @@
 # Graduate_Admission_Prediction
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+[![built with Streamlit](https://img.shields.io/badge/built%20with%20-Streamlit-brightgreen)](https://www.streamlit.io/)
 
 
 Graduate Admission Prediction (GAP) is an analysis project based on my paper "A Comparative Study of Regression Algorithms for Predicting Graduate Admission to a University" (read my [paper](https://www.researchgate.net/publication/343280957_A_Comparative_Study_of_Regression_Algorithms_for_Predicting_Graduate_Admission_to_a_University)). It is built with Python and Streamlit.
