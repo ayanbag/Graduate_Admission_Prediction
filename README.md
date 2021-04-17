@@ -1,4 +1,4 @@
-# Graduate_Admission_Prediction
+# Graduate Admission Prediction
 [![built with Streamlit](https://img.shields.io/badge/built%20with%20-Streamlit-brightgreen)](https://www.streamlit.io/)
 
 
